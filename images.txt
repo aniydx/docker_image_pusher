@@ -1,1 +1,1 @@
-nginx:1.27.0-perl
+coredns/coredns:1.8.6
