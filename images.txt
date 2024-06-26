@@ -1,1 +1,1 @@
-bitnami/trivy:latest
+ghcr.io/aquasecurity/trivy-db:2
