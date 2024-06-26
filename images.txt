@@ -1,1 +1,2 @@
-nginx:stable-alpine
+mc1arke/sonarqube-with-community-branch-plugin:8.9-community
+postgres:12.3
